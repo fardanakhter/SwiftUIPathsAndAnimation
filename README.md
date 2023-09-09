@@ -11,3 +11,7 @@ A learning project that composes view using paths for 2D outlines and animations
 
 - Regular Width, Compact Height:
 <img width="359" alt="Screenshot 2023-09-09 at 3 18 55 PM" src="https://github.com/fardanakhter/SwiftUIPathsAndAnimation/assets/47988637/c90daf07-611d-47db-83c4-e7adf383c2ad">
+
+Final Look:
+https://github.com/fardanakhter/SwiftUIPathsAndAnimation/assets/47988637/39b94c04-90db-4815-9c2a-35725fe55284
+
